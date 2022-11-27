@@ -1,9 +1,10 @@
-# SAR_AGH_thesis_2022
+# SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND
+## Engineering Thesis by Filip Giermek; AGH University of Science and Technology in Cracow 2022
 
-Script is based on workflow prepared and shared on MIT License from paper <br />  
-*Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine* <br /> 
-links: [Github](https://github.com/adugnag/gee_s1_ard); [Paper](https://www.mdpi.com/2072-4292/13/10/1954) <br /> 
-authors: Mullissa, A.; Vollrath, A.; Odongo-Braun, C.; Slagter, B.; Balling, J.; Gou, Y.; Gorelick, N.; Reiche, J.
+### Script is based on workflow prepared and shared on MIT License from paper <br />  
+### *Sentinel-1 SAR Backscatter Analysis Ready Data Preparation in Google Earth Engine* <br /> 
+### links: [Github](https://github.com/adugnag/gee_s1_ard); [Paper](https://www.mdpi.com/2072-4292/13/10/1954) <br /> 
+### authors: Mullissa, A.; Vollrath, A.; Odongo-Braun, C.; Slagter, B.; Balling, J.; Gou, Y.; Gorelick, N.; Reiche, J.
 -------------------------------------------------------------------------------------------------------------------
 ### Object
 
