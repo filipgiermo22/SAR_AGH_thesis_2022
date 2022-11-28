@@ -1,7 +1,9 @@
 
-![banner](img/stronghold-logo-left.png)
+![banner](baner.png)
 
-# SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND
+
+<h1 align="center"> SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND </h1>
+
 
 tu musze napisac co to jest
 
@@ -18,10 +20,14 @@ tutaj w punktach workflow
 
 - Add more integrations
 
-po tym obrazek z workflow
+## Workflow
+
+![workflow](wf.jpeg)
 
 ## Product
-grafika mapy tylko
+
+![final_map](classified_final.png)
+
 ## Code Snipets
 tutaj dac fragmenty kodu i co robią
 na przyklad
@@ -32,9 +38,9 @@ var wheat_points = ee.FeatureCollection.randomPoints(
         return f.set('landcover', 2)
     });
 ````
+
 ## Conclusions
 lista
 ## Authors
 
 Filip Giermek AGH UST Cracow 2022
-
