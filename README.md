@@ -27,6 +27,7 @@ tutaj w punktach workflow
 ## Product
 
 ![final_map](img/classified_final.png)
+![statistics](img/stats.png)
 
 ## Code Snipets
 tutaj dac fragmenty kodu i co robią
