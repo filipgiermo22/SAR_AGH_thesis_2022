@@ -1,5 +1,5 @@
 
-na gorze baner
+![banner](img/stronghold-logo-left.png)
 
 # SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND
 
@@ -36,5 +36,5 @@ var wheat_points = ee.FeatureCollection.randomPoints(
 lista
 ## Authors
 
-Filip Giermek geoinformatics 2022 AGH University of Science and Technology in Cracow 2022
+Filip Giermek AGH UST Cracow 2022
 
