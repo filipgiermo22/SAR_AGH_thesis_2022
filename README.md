@@ -1,5 +1,5 @@
 
-![banner](baner.png)
+![banner](img/baner.png)
 
 
 <h1 align="center"> SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND </h1>
@@ -22,11 +22,11 @@ tutaj w punktach workflow
 
 ## Workflow
 
-![workflow](wf.jpeg)
+![workflow](img/wf.jpeg)
 
 ## Product
 
-![final_map](classified_final.png)
+![final_map](img/classified_final.png)
 
 ## Code Snipets
 tutaj dac fragmenty kodu i co robią
