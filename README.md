@@ -4,9 +4,12 @@
 
 <h1 align="center"> SUPERVISED CROPLAND CLASSIFICATION BASED ON SENTINEL-1 SAR IMAGES IN POLAND </h1>
 
-![image](pagh_wggios.png){: style="float: right"}
-
-Engineering Thesis written by Filip Giermek, geoinformatics at Geology, Geophysics and Enviromental Protection Faculty at University of Science and Technology in Cracow. 
+<table>
+  <tr>
+      <td><img src="img/agh_wggios.png"</img>
+    <td> Engineering Thesis written by Filip Giermek, geoinformatics at Geology, Geophysics and Enviromental Protection Faculty at University of Science and Technology in Cracow. </td>
+  </tr>
+</table> 
 
 ## Scope of the project
 This paper focuses on conveying supervised random forest algorithm-based crop types recognition analysis in
@@ -51,8 +54,8 @@ QGIS as well). It is an effect of a valid number of tests and different approach
 Every iteration of this research revealed how rich with information satellite imagery and derivative technologies
 are, including GIS approach part. If improved in future along these steps:
 - Introduction of optical imagery at the stage of pre-processing
-– Suitable sample data from area similar to target region
-– Less vector manipulations (requires more computing power)
+- Suitable sample data from area similar to target region
+- Less vector manipulations (requires more computing power)
 this project will deliver even more interesting conclusions and valuable information.
 
 ## Authors
