@@ -137,8 +137,8 @@ are, including GIS approach part. If improved in future along these steps:
 this project will deliver even more interesting conclusions and valuable information.
 
 ## IMPORTANT NOTE
-For correct running, script requires importing necessary polygons such as roi (region of interest) and sample polygons of crop types.
-![imports](img/imports.png)
+For correct running, script requires importing necessary polygons such as roi (region of interest) and sample polygons of crop types. </br>
+![imports](img/imports.jpg)
 
 ## Authors
 
